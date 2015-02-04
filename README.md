@@ -1,7 +1,7 @@
 gyg-database
 ============
 
-Database interface module using gyg-modules.
+Database interface module using gyg-modules and PDO.
 
 
 ##Installation
